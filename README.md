@@ -9,14 +9,12 @@ Use:
 - copy the file run.sh and bash.sh in this directory
 - move in this directory
 - run the run.sh
-- you have a website in localhost:80
+- you have a website in localhost:80 ;-)
 - if you want enter in your docker run bash.sh
 ## run.sh
-kill mick_php docker and start a new mick_php docker. Copy this file in your directory
+kill mick_php docker and start a new docker. Copy this file in your directory
 ## bash.sh
-enter in docker mick_php
-## informations of sub-script
-## base.sh
-it's a small script that run the build of Dockerfile (he is run by run.sh)
-## build.sh
-it's the script for build the dockerfile
+enter in the docker 
+
+# configuration
+You can change php.ini, maradb.cnf or 000.defaut.conf 

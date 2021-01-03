@@ -83,7 +83,6 @@ COPY supervisord.conf /etc/supervisor/conf.d/supervisord.conf
 
 COPY php.ini /etc/php/7.4/apache2/php.ini
 COPY script/run.sh /run.sh
-COPY git_install.sh /var/www/html/.
 RUN chmod 755 /run.sh
 EXPOSE 80
 RUN cd /

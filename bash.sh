@@ -1,1 +1,3 @@
-docker exec -i -t cadotinfo/docker-php7.4-apache-yarn-composer /bin/bash  #/bin/$2
+result=${PWD##*/}
+res=${PWD}
+docker exec -i -t $result /bin/bash  #/bin/$2
