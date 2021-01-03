@@ -1,0 +1,56 @@
+2021-01-03 19:20:21,275 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2021-01-03 19:20:21,278 INFO supervisord started with pid 1
+2021-01-03 19:20:22,281 INFO spawned: 'apache2' with pid 15
+2021-01-03 19:20:23,387 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-03 19:20:39,409 WARN received SIGTERM indicating exit request
+2021-01-03 19:20:39,410 INFO waiting for apache2 to die
+2021-01-03 19:20:39,553 INFO stopped: apache2 (exit status 0)
+2021-01-03 19:20:42,788 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2021-01-03 19:20:42,792 INFO supervisord started with pid 1
+2021-01-03 19:20:43,798 INFO spawned: 'apache2' with pid 15
+2021-01-03 19:20:44,906 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-03 19:20:59,926 WARN received SIGTERM indicating exit request
+2021-01-03 19:20:59,951 INFO waiting for apache2 to die
+2021-01-03 19:21:00,050 INFO stopped: apache2 (exit status 0)
+2021-01-03 19:21:02,926 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2021-01-03 19:21:02,929 INFO supervisord started with pid 1
+2021-01-03 19:21:03,936 INFO spawned: 'apache2' with pid 15
+2021-01-03 19:21:05,006 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-03 19:21:57,076 WARN received SIGTERM indicating exit request
+2021-01-03 19:21:57,077 INFO waiting for apache2 to die
+2021-01-03 19:21:57,225 INFO stopped: apache2 (exit status 0)
+2021-01-03 19:23:01,503 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2021-01-03 19:23:01,506 INFO supervisord started with pid 1
+2021-01-03 19:23:02,512 INFO spawned: 'apache2' with pid 15
+2021-01-03 19:23:03,635 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-03 19:23:14,651 WARN received SIGTERM indicating exit request
+2021-01-03 19:23:14,652 INFO waiting for apache2 to die
+2021-01-03 19:23:14,778 INFO stopped: apache2 (exit status 0)
+2021-01-03 19:23:17,913 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2021-01-03 19:23:17,916 INFO supervisord started with pid 1
+2021-01-03 19:23:18,924 INFO spawned: 'apache2' with pid 15
+2021-01-03 19:23:19,984 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-03 19:23:37,008 WARN received SIGTERM indicating exit request
+2021-01-03 19:23:37,009 INFO waiting for apache2 to die
+2021-01-03 19:23:37,165 INFO stopped: apache2 (exit status 0)
+2021-01-03 19:23:40,143 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2021-01-03 19:23:40,146 INFO supervisord started with pid 1
+2021-01-03 19:23:41,154 INFO spawned: 'apache2' with pid 15
+2021-01-03 19:23:42,217 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-03 19:24:28,277 WARN received SIGTERM indicating exit request
+2021-01-03 19:24:28,279 INFO waiting for apache2 to die
+2021-01-03 19:24:28,674 INFO stopped: apache2 (exit status 0)
+2021-01-03 19:24:31,631 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2021-01-03 19:24:31,633 INFO supervisord started with pid 1
+2021-01-03 19:24:32,638 INFO spawned: 'apache2' with pid 15
+2021-01-03 19:24:33,694 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-03 19:25:25,757 WARN received SIGTERM indicating exit request
+2021-01-03 19:25:25,758 INFO waiting for apache2 to die
+2021-01-03 19:25:25,884 INFO stopped: apache2 (exit status 0)
+2021-01-03 19:25:40,644 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2021-01-03 19:25:40,647 INFO supervisord started with pid 1
+2021-01-03 19:25:41,654 INFO spawned: 'apache2' with pid 15
+2021-01-03 19:25:42,750 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-03 19:26:49,839 WARN received SIGTERM indicating exit request
+2021-01-03 19:26:49,840 INFO waiting for apache2 to die
+2021-01-03 19:26:49,969 INFO stopped: apache2 (exit status 0)
