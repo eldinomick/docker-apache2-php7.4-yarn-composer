@@ -1,8 +1,8 @@
 #!/bin/bash
 git config --global credential.helper 'cache --timeout=360000'
-echo 'alias sc="/bin/symfony console"' >>/etc/bash.bashrc
+#symfony
+echo 'alias sc="php /var/www/html/bin/console"' >>/etc/bash.bashrc
 source /etc/bash.bashrc
-mv /root/.symfony/bin/symfony /bin/.
 php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
 php composer-setup.php --install-dir=/usr/local/bin --filename=composer
 php -r "unlink('composer-setup.php');"
