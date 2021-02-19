@@ -75,6 +75,9 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 
 RUN apt-get install -f
 
+RUN npm install npm -g
+RUN npm install yarn -g
+
 RUN a2enmod rewrite
 RUN a2enmod expires
 COPY /000-default.conf /etc/apache2/sites-available/000-default.conf
